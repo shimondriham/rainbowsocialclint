@@ -1,0 +1,49 @@
+.form_client{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    
+    z-index: 999999;
+    top: 0;
+    left: 0;
+    background-color: rgba(122, 116, 116, 0.301);
+    display: flex;
+    display: none;
+    align-items: center;
+    justify-content: center;
+}
+.form_clientB{
+background: white;
+border-radius: 10px;
+}
+.close-btn{
+    background: rgba(255, 255, 255, 0.384);
+    font-size: 3rem;
+    padding-top: 0px;
+    padding-bottom: 5px;
+    padding-left: 18px;
+    padding-right: 18px;
+    border-radius: 50%;
+
+}
+.header_admin nav a{
+    color: aliceblue;
+    text-decoration: none;
+}
+.inputsearch{
+    border-radius: 5px;
+    border: solid 1px red  ;
+    color: brown;
+}
+.img{
+ background: rgba(0, 0, 0, 0.265);
+ border-radius: 5px;
+}
+.contact h1{
+    font-family: sans-serif;
+    color: rgb(132, 80, 80);
+}
+.contact form{
+ background: rgba(255, 255, 255, 0.642);
+  border-radius: 1vh; 
+}
