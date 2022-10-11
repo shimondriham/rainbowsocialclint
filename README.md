@@ -1,2 +1,1 @@
-# rainbowsocialclint
-https://rainbowsocial.netlify.app/
+[Link to my Api-Toy-store site](https://rainbowsocial.netlify.app/)
